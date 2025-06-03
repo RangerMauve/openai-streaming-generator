@@ -1,0 +1,25 @@
+{
+  "name": "openai-streaming-generator",
+  "version": "1.0.0",
+  "description": "Use the fetch API to stream OpenAI chat completions wrapped in an async generator",
+  "keywords": [
+    "openai",
+    "sse",
+    "streaming"
+  ],
+  "homepage": "https://github.com/RangerMauve/openai-streaming-generator#readme",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/openai-streaming-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/openai-streaming-generator.git"
+  },
+  "license": "MIT",
+  "author": "RangerMauve",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
